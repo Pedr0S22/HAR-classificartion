@@ -25,7 +25,7 @@ I engineered a system that filtered sensor noise using dynamic K-Means clusterin
 
 Below is the high-level architecture of the complete data lifecycle and classification pipeline.
 
-![HAR Pipeline Architecture](assets/pipeline-arch.png)
+![HAR Pipeline Architecture](arch.png)
 
 ---
 
